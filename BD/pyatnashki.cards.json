@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "66145c27bd3df730c484ae0d"
+  },
+  "type": "orange",
+  "image": "/assets/orange.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145c59bd3df730c484ae0f"
+  },
+  "type": "apple",
+  "image": "/assets/apple.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145ccfbd3df730c484ae11"
+  },
+  "type": "banana",
+  "image": "/assets/banana.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145cdbbd3df730c484ae13"
+  },
+  "type": "kiwi",
+  "image": "/assets/kiwi.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145d65bd3df730c484ae15"
+  },
+  "type": "lemon",
+  "image": "/assets/lemon.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145d6ebd3df730c484ae17"
+  },
+  "type": "passion",
+  "image": "/assets/passion.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145d75bd3df730c484ae19"
+  },
+  "type": "pear",
+  "image": "/assets/pear.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66145d7bbd3df730c484ae1b"
+  },
+  "type": "watermelon",
+  "image": "/assets/watermelon.jpg",
+  "__v": 0
+}]
